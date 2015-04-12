@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>欢迎访问告白墙程序
